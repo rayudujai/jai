@@ -1,0 +1,6 @@
+[submodule "cucumberbasic"]
+	path = cucumberbasic
+	url = https://github.com/executeautomation/cucumberbasic.git
+[submodule "different"]
+	path = different
+	url = https://github.com/executeautomation/cucumberbasic.git
