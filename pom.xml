@@ -4,7 +4,7 @@
 	<artifactId>shopping-cart</artifactId>
 	<version>0.0.1-SNAPSHoT</version>
 	<packaging>war</packaging>
-	<name>Shopping Cart</name>
+	<name>shopping Cart</name>
 	<description>A Shopping Cart Project in Java by Bitter Code</description>
 	<build>
 		<sourceDirectory>src</sourceDirectory>
