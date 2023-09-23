@@ -5,7 +5,7 @@
 	<version>0.0.1-SNAPSHoT</version>
 	<packaging>war</packaging>
 	<name>shopping CaRt</name>
-	<description>A Shopping Cart Project in Java by Bitter Code</description>
+	<description>A shopping Cart Project in Java by Bitter Code</description>
 	<build>
 		<sourceDirectory>src</sourceDirectory>
 		<resources>
